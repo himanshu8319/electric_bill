@@ -1,0 +1,10 @@
+=========KESCO==========
+Name: Himanshu Singh
+Age: 21
+UserID: 12342513
+Unit Use: 50
+--------------------------
+Amount : 300
+Fix Charges: 150
+--------------------------
+Payable Amount: 450
